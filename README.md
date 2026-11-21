@@ -3,7 +3,8 @@
 Interactive web application demonstrating the published [`inr-words-cli`](https://www.npmjs.com/package/inr-words-cli) npm package.
 
 ## Live Demo
-> **Live URL:** [Deploying to Vercel...]
+- **GitHub Pages**: [https://shikharverma018.github.io/inr-words-demo/](https://shikharverma018.github.io/inr-words-demo/)
+- **Vercel Deploy**: [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/shikharverma018/inr-words-demo)
 
 ## Features
 
